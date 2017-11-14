@@ -11,6 +11,8 @@ public class Test extends base {
 		base a = new Test(23);
 		a.out();
 		System.out.println(8|9&10^11);
+		System.out.println(8|9&10^11);
+		System.out.println(8|9&10^11);
 	}
 	{
 		System.out.println("b");
