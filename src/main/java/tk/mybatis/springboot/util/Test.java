@@ -13,6 +13,7 @@ public class Test extends base {
 		System.out.println(8|9&10^11);
 		System.out.println(8|9&10^11);
 		System.out.println(8|9&10^11);
+		System.out.println(8|9&10^11);
 	}
 	{
 		System.out.println("b");
